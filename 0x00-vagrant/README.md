@@ -1,0 +1,1 @@
+this folder contain the hello world file and the output of the uname command
